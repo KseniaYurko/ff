@@ -10,5 +10,5 @@ export default defineConfig({
   //   },
   // },
   plugins: [splitVendorChunkPlugin(), react()],
-  base: '/shri-task-2/',
+  base: '/ff/',
 })
